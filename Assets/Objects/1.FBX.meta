@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 10fdb6ed1a2c8ce438683f2431cf925b
+timeCreated: 1509862465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ChamferBox002
+    100004: ChamferBox003
+    100006: ChamferBox004
+    100008: ChamferBox005
+    100010: ChamferBox006
+    100012: ChamferBox007
+    100014: ChamferBox008
+    100016: ChamferBox009
+    100018: ChamferBox010
+    100020: ChamferBox012
+    100022: ChamferBox013
+    100024: ChamferBox014
+    100026: ChamferBox015
+    100028: Line001
+    100030: Line002
+    400000: //RootNode
+    400002: ChamferBox002
+    400004: ChamferBox003
+    400006: ChamferBox004
+    400008: ChamferBox005
+    400010: ChamferBox006
+    400012: ChamferBox007
+    400014: ChamferBox008
+    400016: ChamferBox009
+    400018: ChamferBox010
+    400020: ChamferBox012
+    400022: ChamferBox013
+    400024: ChamferBox014
+    400026: ChamferBox015
+    400028: Line001
+    400030: Line002
+    2300000: ChamferBox002
+    2300002: ChamferBox003
+    2300004: ChamferBox004
+    2300006: ChamferBox005
+    2300008: ChamferBox006
+    2300010: ChamferBox007
+    2300012: ChamferBox008
+    2300014: ChamferBox009
+    2300016: ChamferBox010
+    2300018: ChamferBox012
+    2300020: ChamferBox013
+    2300022: ChamferBox014
+    2300024: ChamferBox015
+    2300026: Line001
+    2300028: Line002
+    3300000: ChamferBox002
+    3300002: ChamferBox003
+    3300004: ChamferBox004
+    3300006: ChamferBox005
+    3300008: ChamferBox006
+    3300010: ChamferBox007
+    3300012: ChamferBox008
+    3300014: ChamferBox009
+    3300016: ChamferBox010
+    3300018: ChamferBox012
+    3300020: ChamferBox013
+    3300022: ChamferBox014
+    3300024: ChamferBox015
+    3300026: Line001
+    3300028: Line002
+    4300000: ChamferBox015
+    4300002: ChamferBox014
+    4300004: ChamferBox013
+    4300006: Line002
+    4300008: ChamferBox012
+    4300010: ChamferBox010
+    4300012: ChamferBox009
+    4300014: ChamferBox008
+    4300016: ChamferBox007
+    4300018: ChamferBox006
+    4300020: ChamferBox005
+    4300022: ChamferBox004
+    4300024: ChamferBox003
+    4300026: ChamferBox002
+    4300028: Line001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
